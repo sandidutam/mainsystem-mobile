@@ -4,9 +4,9 @@
     "slug": "main2x",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/M2Xv3.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/M2X-splash-2.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
